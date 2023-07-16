@@ -1,5 +1,6 @@
 # Youtube-Trend-Analysis
 End to End Data Engineering and Data Analysis using AWS, Python, and Power BI.
+![Data Architecture](https://github.com/tejaskolpek/Youtube-Trend-Analysis/assets/110253633/d65386e5-236e-4b89-87e3-88908c167cae)
 
 **AWS step**
 - Understand the dataset that we are going to use
